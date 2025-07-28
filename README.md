@@ -32,7 +32,7 @@
 
 #### 1. 複製專案
 ```bash
-git clone https://github.com/YOUR_USERNAME/8-Ball-Pool-Aim-Assist-for-macOS.git
+git clone https://github.com/kaigii/8-Ball-Pool-Aim-Assist-for-macOS.git
 cd 8-Ball-Pool-Aim-Assist-for-macOS
 ```
 
