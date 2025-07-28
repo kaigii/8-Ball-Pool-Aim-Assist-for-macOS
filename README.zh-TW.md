@@ -21,7 +21,7 @@
 <img width="700" alt="遊戲畫面與輔助線疊加效果" src="https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff" />
 
 **即時參數調整器 (Tuner)：**
-<img width="700" alt="即時參數調整器" src="https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72" />
+<img alt="即時參數調整器" src="https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72" />
 
 </div>
 透過直觀的 GUI 介面，您可以即時調整所有影像處理參數，找到在您螢幕上的最佳設定。
