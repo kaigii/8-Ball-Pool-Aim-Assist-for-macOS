@@ -15,11 +15,15 @@
 
 ## 📸 Demo
 
+<div align="center">
+
 **Game Screen with Aim Assist Overlay:**
-<img width="600" alt="Game Screen with Aim Assist Overlay" src="https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff" />
+<img width="700" alt="Game Screen with Aim Assist Overlay" src="https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff" />
 
 **Real-time Parameter Tuner:**
-![Real-time Parameter Tuner](https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72)
+<img width="700" alt="Real-time Parameter Tuner" src="https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72" />
+
+</div>
 Through an intuitive GUI interface, you can adjust all image processing parameters in real-time to find the optimal settings for your screen.
 
 ## ✨ Features
