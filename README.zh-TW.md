@@ -1,8 +1,9 @@
+<div align="center">
+
 # 8-Ball-Pool-Aim-Assist-for-macOS
 
 [English](README.md)
 
-<div align="center">
 
 ![alt text](https://img.shields.io/badge/macOS-12.0%2B-blue)
 ![alt text](https://img.shields.io/badge/Python-3.9%2B-green)
