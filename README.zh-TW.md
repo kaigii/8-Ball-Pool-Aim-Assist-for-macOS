@@ -134,6 +134,16 @@ python3 main.py
 
 詳細的授權條款全文，請參閱 [Creative Commons 網站](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
 
----
+## ❤️ 貢獻 (Contributing)
 
-**English** | [README.md](README.md) 
+歡迎貢獻！無論是回報錯誤、建議功能，還是提交 Pull Request，您的幫助都受到歡迎。
+
+1. Fork 這個專案
+2. 建立您的功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交您的變更 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 開啟 Pull Request
+
+## 🌐 語言
+
+[English](README.md) | [繁體中文](README.zh-TW.md) 
