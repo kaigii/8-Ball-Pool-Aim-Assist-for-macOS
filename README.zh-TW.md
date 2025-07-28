@@ -16,7 +16,7 @@
 ## 📸 運作預覽
 
 **遊戲畫面與輔助線疊加效果：**
-![遊戲畫面與輔助線疊加效果](https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff)
+<img width="600" alt="遊戲畫面與輔助線疊加效果" src="https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff" />
 
 **即時參數調整器 (Tuner)：**
 ![即時參數調整器](https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72)

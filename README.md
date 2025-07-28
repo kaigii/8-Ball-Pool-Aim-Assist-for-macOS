@@ -16,7 +16,7 @@
 ## 📸 Demo
 
 **Game Screen with Aim Assist Overlay:**
-![Game Screen with Aim Assist Overlay](https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff)
+<img width="600" alt="Game Screen with Aim Assist Overlay" src="https://github.com/user-attachments/assets/235f035f-c62a-4296-b3be-0e59e63aa2ff" />
 
 **Real-time Parameter Tuner:**
 ![Real-time Parameter Tuner](https://github.com/user-attachments/assets/2466d522-b804-441a-806f-cc8960a21d72)
