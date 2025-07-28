@@ -2,11 +2,15 @@
 
 [English](README.md)
 
+<div align="center">
+
 ![alt text](https://img.shields.io/badge/macOS-12.0%2B-blue)
 ![alt text](https://img.shields.io/badge/Python-3.9%2B-green)
 ![alt text](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-這是一個專為在 macOS 上遊玩 8 Ball Pool 設計的輔助瞄準工具。它透過電腦視覺技術，即時分析遊戲畫面中的白色輔助線，並繪製一條延伸的、穩定的預測路徑，幫助玩家更精準地判斷球的走向。
+**這是一個專為在 macOS 上遊玩 8 Ball Pool 設計的輔助瞄準工具。它透過電腦視覺技術，即時分析遊戲畫面中的白色輔助線，並繪製一條延伸的、穩定的預測路徑，幫助玩家更精準地判斷球的走向。**
+
+</div>
 
 ## 📸 運作預覽
 

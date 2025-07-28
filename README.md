@@ -2,11 +2,15 @@
 
 [繁體中文](README.zh-TW.md)
 
+<div align="center">
+
 ![alt text](https://img.shields.io/badge/macOS-12.0%2B-blue)
 ![alt text](https://img.shields.io/badge/Python-3.9%2B-green)
 ![alt text](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-A computer vision-based aim assist tool designed for playing 8 Ball Pool on macOS. It uses real-time image analysis to detect white aiming lines in the game screen and draws extended, stable prediction paths to help players make more accurate shots.
+**A computer vision-based aim assist tool designed for playing 8 Ball Pool on macOS. It uses real-time image analysis to detect white aiming lines in the game screen and draws extended, stable prediction paths to help players make more accurate shots.**
+
+</div>
 
 ## 📸 Demo
 
