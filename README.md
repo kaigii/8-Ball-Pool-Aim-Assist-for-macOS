@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 3. 執行主程式
 一切就緒後，在終端機中執行：
 ```bash
-python main.py
+python3 main.py
 ```
 
 程式會啟動一個透明的懸浮視窗，並自動打開參數調整器 Tuner。此時，您應該能在遊戲畫面上看到偵測到的輔助線。
