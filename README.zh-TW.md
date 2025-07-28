@@ -1,5 +1,7 @@
 # 8-Ball-Pool-Aim-Assist-for-macOS
 
+[English](README.md)
+
 ![alt text](https://img.shields.io/badge/macOS-12.0%2B-blue)
 ![alt text](https://img.shields.io/badge/Python-3.9%2B-green)
 ![alt text](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
@@ -144,6 +146,4 @@ python3 main.py
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 開啟 Pull Request
 
-## 🌐 語言
-
-[English](README.md) | [繁體中文](README.zh-TW.md) 
+ 
