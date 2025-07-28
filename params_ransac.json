@@ -1,0 +1,1 @@
+{"bilateral_d": 1, "bilateral_sigmaColor": 1, "bilateral_sigmaSpace": 1, "canny_threshold1": 1068, "canny_threshold2": 586, "min_inliers": 18, "hough_threshold_long": 9, "hough_minLineLength_long": 1, "hough_maxLineGap_long": 1, "hough_threshold_short": 1, "hough_minLineLength_short": 1, "hough_maxLineGap_short": 1}
