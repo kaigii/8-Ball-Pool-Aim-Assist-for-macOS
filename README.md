@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ## 📸 Demo
 
 <div align="center">
@@ -28,55 +30,91 @@ Through an intuitive GUI interface, you can adjust all image processing paramete
 
 ## ✨ Features
 
-- **Real-time Screen Analysis**: Captures specified game areas with millisecond-level processing
-- **Advanced Image Processing**: Uses bilateral filtering, Canny edge detection, and other algorithms to precisely extract line features
-- **Dual Hough Transform**: Detects both long and short line segments separately, improving detection rates at different viewing angles
-- **Point Cloud Verification**: Uses RANSAC principles to verify and filter the most reliable line segments through edge point cloud support, eliminating noise interference
-- **Smooth Line Tracking**: Exclusive LineTracker module eliminates line flickering and provides elegant fade-out effects
-- **Non-intrusive Overlay Window**: Transparent overlay window built with PySide6 that can be superimposed on the game without affecting mouse events
-- **Real-time Parameter Tuner**: Built-in powerful GUI parameter adjustment tool (tuner.py) for real-time fine-tuning of all visual processing parameters
+<div align="center">
+
+### 🎯 **Core Capabilities**
+
+</div>
+
+| Feature | Description | Impact |
+|---------|-------------|---------|
+| ⚡ **Real-time Screen Analysis** | Captures specified game areas with millisecond-level processing | Instant response for seamless gameplay |
+| 🔍 **Advanced Image Processing** | Uses bilateral filtering, Canny edge detection, and other algorithms to precisely extract line features | Crystal-clear line detection |
+| 🎯 **Dual Hough Transform** | Detects both long and short line segments separately, improving detection rates at different viewing angles | Reliable detection from any angle |
+| 🛡️ **Point Cloud Verification** | Uses RANSAC principles to verify and filter the most reliable line segments through edge point cloud support, eliminating noise interference | Noise-free, accurate results |
+| ✨ **Smooth Line Tracking** | Exclusive LineTracker module eliminates line flickering and provides elegant fade-out effects | Professional, stable visual feedback |
+| 🪟 **Non-intrusive Overlay** | Transparent overlay window built with PySide6 that can be superimposed on the game without affecting mouse events | Zero interference with gameplay |
+| 🎛️ **Real-time Parameter Tuner** | Built-in powerful GUI parameter adjustment tool (tuner.py) for real-time fine-tuning of all visual processing parameters | Perfect customization for your setup |
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Make sure you have Python 3.9 or higher installed on your Mac.
+<div align="center">
 
-### Installation
+### 🛠️ **Quick Setup Guide**
 
-#### 1. Clone the repository
+</div>
+
+### 📋 Prerequisites
+> Make sure you have Python 3.9 or higher installed on your Mac.
+
+### ⚡ Installation
+
+<details>
+<summary><b>🔧 Step 1: Clone the repository</b></summary>
+
 ```bash
 git clone https://github.com/kaigii/8-Ball-Pool-Aim-Assist-for-macOS.git
 cd 8-Ball-Pool-Aim-Assist-for-macOS
 ```
 
-#### 2. Install dependencies
+</details>
+
+<details>
+<summary><b>📦 Step 2: Install dependencies</b></summary>
+
 It's recommended to install in a virtual environment:
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+</details>
+
 ## 🎮 Usage
 
-### 1. Project game screen to Mac
-Use macOS's built-in "iPhone Screen Mirroring" feature or any other screen mirroring app to project your mobile game screen completely to your Mac desktop.
+<div align="center">
 
-### 2. Set up pool table capture area
-This is the most critical step! You need to manually specify the area for the program to analyze.
+### 🎯 **Game Setup & Configuration**
 
-1. Press `Command + Shift + 4` on your Mac. The cursor will become a cross and display current coordinates.
-2. Move the mouse to the top-left corner of the pool table area in the game window and note the x and y coordinates.
-3. Drag the mouse to the bottom-right corner to calculate the **width** and **height** of the rectangle.
-4. Open the `config.py` file in the project and modify the values in the `GAME_WINDOW_RECT` dictionary.
+</div>
 
-### 3. Run the main program
+### 📱 **Step 1: Project game screen to Mac**
+> Use macOS's built-in "iPhone Screen Mirroring" feature or any other screen mirroring app to project your mobile game screen completely to your Mac desktop.
+
+### 🎯 **Step 2: Set up pool table capture area**
+> This is the most critical step! You need to manually specify the area for the program to analyze.
+
+<div align="center">
+
+| Action | Description |
+|--------|-------------|
+| 📐 **Measure** | Press `Command + Shift + 4` on your Mac. The cursor will become a cross and display current coordinates. |
+| 🎯 **Position** | Move the mouse to the top-left corner of the pool table area in the game window and note the x and y coordinates. |
+| 📏 **Calculate** | Drag the mouse to the bottom-right corner to calculate the **width** and **height** of the rectangle. |
+| ⚙️ **Configure** | Open the `config.py` file in the project and modify the values in the `GAME_WINDOW_RECT` dictionary. |
+
+</div>
+
+### 🚀 **Step 3: Run the main program**
 When everything is ready, execute in the terminal:
+
 ```bash
 python3 main.py
 ```
 
-The program will start a transparent overlay window and automatically open the parameter tuner. You should now see detected aiming lines on the game screen.
+> The program will start a transparent overlay window and automatically open the parameter tuner. You should now see detected aiming lines on the game screen.
 
 ## 🛠️ Configuration and Fine-tuning
 
