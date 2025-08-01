@@ -63,7 +63,7 @@ Through an intuitive GUI interface, you can adjust all image processing paramete
 <summary><b>🔧 Step 1: Clone the repository</b></summary>
 
 ```bash
-git clone https://github.com/kaigii/8-Ball-Pool-Aim-Assist-for-macOS.git
+git clone https://github.com/kaigiii/8-Ball-Pool-Aim-Assist-for-macOS.git
 cd 8-Ball-Pool-Aim-Assist-for-macOS
 ```
 
